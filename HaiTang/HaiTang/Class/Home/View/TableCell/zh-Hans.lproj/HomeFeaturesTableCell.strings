@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "法币"; ObjectID = "9eC-cj-MT0"; */
+"9eC-cj-MT0.normalTitle" = "法币";
+
+/* Class = "UIButton"; normalTitle = "充币"; ObjectID = "ST7-Bg-K18"; */
+"ST7-Bg-K18.normalTitle" = "充币";
+
+/* Class = "UIButton"; normalTitle = "提币"; ObjectID = "ach-GA-pJX"; */
+"ach-GA-pJX.normalTitle" = "提币";
+
+/* Class = "UIButton"; normalTitle = "邀请好友"; ObjectID = "ieP-WB-EJt"; */
+"ieP-WB-EJt.normalTitle" = "邀请好友";

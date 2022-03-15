@@ -1,0 +1,24 @@
+//
+//  HaiTang.pch
+//  HaiTang
+//
+//  Created by 吴紫颖 on 2020/10/9.
+//  Copyright © 2020 zy. All rights reserved.
+//
+
+#ifndef HaiTang_pch
+#define HaiTang_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "GlobalHeader.h"
+#import "GlobalEnum.h"
+#import "AppConstants.h"
+#import "Utils.h"
+
+#endif
+
+#endif /* HaiTang_pch */
